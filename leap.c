@@ -10,7 +10,7 @@ int main(void)
 	}
 	else if(a%100==0)
 	{
-		printf("yes");
+		printf("no");
 	}
 	else if(a%4==0)
 	{
